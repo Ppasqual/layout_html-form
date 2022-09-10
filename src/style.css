@@ -1,12 +1,13 @@
 .field {
   margin-bottom: 10px;
+  display: block;
 }
 
 .lastField {
-  margin-top: 10px;
-  margin-bottom: 0;
+  margin-bottom: 10px;
 }
 
 .fieldset {
   margin-bottom: 20px;
+
 }
