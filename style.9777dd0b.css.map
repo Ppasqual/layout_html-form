@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,OAEE,aACF,CAEA,kBAJE,kBAMF,CAEA,UACE,kBAEF","file":"style.9777dd0b.css","sourceRoot":"../src","sourcesContent":[".field {\n  margin-bottom: 10px;\n  display: block;\n}\n\n.lastField {\n  margin-bottom: 10px;\n}\n\n.fieldset {\n  margin-bottom: 20px;\n\n}\n"]}
